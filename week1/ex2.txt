@@ -1,0 +1,23 @@
+    1  ls
+    2  mkdir week1
+    3  ls usr/bin
+    4  ls /usr/bin
+    5  ls *gcc* /usr/bin
+    6  cd /usr/bin/
+    7  ls *gcc*
+    8  ls -r *gcc*
+    9  ls -r *gcc* > ~/week1/ex1.txt
+   10  ls ~/week1/ex1.txt
+   11  cd ../..
+   12  cd ~
+   13  cd week1
+   14  ls
+   15  touch ex2.txt
+   16  ls
+   17  ls *ex*
+   18  mkdir kek
+   19  rm kek
+   20  rmdir kek
+   21  ls
+   22  vim ex1.txt
+   23  history > ex2.txt
