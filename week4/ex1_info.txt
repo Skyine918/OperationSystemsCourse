@@ -1,0 +1,2 @@
+Compiled on innopolis virtual machines on Linux
+Can't run shel script on virtual machine (permission denied)
