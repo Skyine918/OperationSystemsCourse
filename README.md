@@ -1,1 +1,3 @@
 # OperationSystemsCourse
+
+lolkek course
