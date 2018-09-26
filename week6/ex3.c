@@ -10,7 +10,6 @@
 void signal_callback_handler(int signum) {
 
     printf("Signal proceeded: %d\n", signum);
-    // Cleanup and close up stuff here
 
     // Terminate program
     sleep(3);
