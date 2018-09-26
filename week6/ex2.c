@@ -2,13 +2,6 @@
 // Created by trov on 26.09.2018.
 //
 
-//
-// Created by trov on 26.09.2018.
-//
-/* Программа 05-3.с, осуществляющая однонаправленную связь через pipe
-между процессом-родителем и процессом-ребенком */
-
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <zconf.h>
