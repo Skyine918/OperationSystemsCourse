@@ -1,0 +1,3 @@
+First variant of the program will print "Hello" 2 times, because when we fork process, the buffer of stdout do not cleans up.
+And when we use line buffering, lack of new line symbol will save our data before fork so it will be printed after in new "printf(\n)" call. (that call have "\n")
+the parent and child process both will print "hello\n" only on second printf call. The second program prints Hello only once, because it has new line symbol before call.
